@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, Be glad 😃🙋🏼 to see Desmond Owusu Ansah</h1>
 
 <h3 align="center">A Full-Stack Developer who is always concern about programming and building awesome and unique project where you can fould them on the internet so you can acheive the benefit of the project.</h3>
@@ -63,8 +64,3 @@
 <a href="https://web.facebook.com/desmondOwusuDev/"><img src="https://img.shields.io/badge/-desmondOwusuDev-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://dev.to/desmondowusudev"><img src="https://img.shields.io/badge/-desmondowusudev-1877F2?style=flat&logo=dev&logoColor=white"/></a>
 <b></p>
-<hr>
-<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
-<p align="center">
-  <img src="https://github.com/rock12231/rock12231/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
