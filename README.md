@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, Be glad 😃🙋🏼 to see Desmond Owusu Ansah</h1>
+<h1 align="center">Hi there👋
+<br>Be glad 😃🙋🏼 to see Desmond Owusu Ansah</h1>
 
 <h3 align="center">A Full-Stack Developer who is always concern about programming and building awesome and unique project where you can fould them on the internet so you can acheive the benefit of the project.</h3>
 
