@@ -2,19 +2,17 @@
 <h1 align="center">Hi there👋
 <br>Be glad 😃🙋🏼 to see Desmond Owusu Ansah</h1>
 
-<h3 align="center">A Full-Stack Developer who is always concern about programming and building awesome and unique project where you can fould them on the internet so you can acheive the benefit of the project.</h3>
+<h3 align="center">A Full Stack Developer who is always concerned about programming and building awesome and unique projects where you can find them on the internet so you can achieve the benefit of the project.</h3>
 
 <hr>
 
-## 👨🏻‍💻 &nbsp;More About Me
+## 👨🏻‍💻 &nbsp; More About Me
 
-- 🌱 I’m currently improving skills at at Microverse
+- 🌱 I’m **[currently available for hire]()**.
 
 - 🔭 I’m currently working with, **React Js, Ruby on Rails**
 
 - 💬 Ask me about **[JavaScript](), [React JS](), [Node JS](), [Express JS]() and [PHP]()**
-
-- 😎 I’m looking for **tasks to work on and Part-Time jobs to fund studies**
 
 - 📫 You can shoot me an email at **desmond0406114009@gmail.com** I'll try to respond as soon as I can.
 
