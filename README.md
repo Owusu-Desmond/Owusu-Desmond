@@ -2,9 +2,7 @@
 <h1 align="center">Hi there👋
 <br>Be glad 😃🙋🏼 to see Desmond Owusu Ansah</h1>
 
-<h3 align="center">A Full Stack Developer who is always concerned about programming and building awesome and unique projects where you can find them on the internet so you can achieve the benefit of the project.</h3>
-
-<hr>
+<p><i>A multitalented <ins><b>full-stack JavaScript</b></ins> developer with pragmatic experience in developing, and spending full-time concerned on building awesome and unique projects to bring new terminologies together. Having the vision, strategy, and execution in an unstructured and resource-constrained environment.</i></p>
 
 ## 👨🏻‍💻 &nbsp; More About Me
 
