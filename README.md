@@ -18,7 +18,7 @@
 
 - 📄  Please have a look at my [Portfolio](https://owusu-desmond.github.io/portfolio/) for more details about me. I'm open to feedback and suggestions!
 
-- 😊 You can visit my interesting article on [Dev.to](https://dev.to/desmondowusudev) and share your suggestion.
+- 😊 You can visit my interesting articles on [Dev.to](https://dev.to/desmondowusudev) and share your suggestions.
 
 - ⚡ Fun fact **I love music and dance**
 
