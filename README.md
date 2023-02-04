@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Owusu-Desmond&label=Profile%20views&color=0e75b6&style=flat" alt="rustamxon7" /> </p>
 <h1 align="center">Hi there👋
-<br>Be glad 😃🙋🏼 to see Desmond Owusu Ansah</h1>
+<br>I'm Desmond Owusu Ansah 🙋🏼 Glad to see you😃 </h1>
 
 <p><i>I'm <ins><b>Full Stack Web Developer</b></ins> with 2 years of experience in front-end and back-end development using languages such as JavaScript, Ruby, HTML, and CSS and frameworks such as React, Node.js, and Rails. Strong problem-solving and attention to detail skills, resulting in the successful development and maintenance of multiple web applications. Excellent communication skills and ability to work in fast-paced environments</i></p>
 
