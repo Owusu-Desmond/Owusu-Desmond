@@ -4,7 +4,7 @@
 <h1 align="center">Hi there👋
 <br>Be glad 😃🙋🏼 to see Desmond Owusu Ansah</h1>
 
-<p><i>A multitalented <ins><b>Full-Stack Web</b></ins> developer with pragmatic experience in developing, and spending full-time concerned on building awesome and unique projects to bring new terminologies together. Having the vision, strategy, and execution in an unstructured and resource-constrained environment.</i></p>
+<p><i>I'm <ins><b>Full Stack Web Developer</b></ins> with 2 years of experience in front-end and back-end development using languages such as JavaScript, Ruby, HTML, and CSS and frameworks such as React, Node.js, and Rails. Strong problem-solving and attention to detail skills, resulting in the successful development and maintenance of multiple web applications. Excellent communication skills and ability to work in fast-paced environments</i></p>
 
 ## 👨🏻‍💻 &nbsp; More About Me
 
@@ -16,7 +16,7 @@
 
 - 📫 You can shoot me an email at **desmond0406114009@gmail.com** I'll try to respond as soon as I can.
 
-- 📄  Please have a look at my [Portfolio](https://owusu-desmond.github.io/portfolio/) for more details about me. I'm open to feedback and suggestions!
+- 📄  Please have a look at my [Portfolio](https://destee.netlify.app/) for more details about me. I'm open to feedback and suggestions!
 
 - 😊 You can visit my interesting articles on [Dev.to](https://dev.to/desmondowusudev) and share your suggestions.
 
