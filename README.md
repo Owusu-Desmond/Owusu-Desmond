@@ -10,7 +10,7 @@
 
 - 🌱 I’m **[currently available for hire]()**.
 
-- 🔭 I’m currently working with, **Ruby on Rails**
+- 🔭 I’m currently working with, **TypeScript, React Native and Next JS**
 
 - 💬 Ask me about **[JavaScript](), [React JS](), [Node JS](), [Express JS]() and [PHP]()**
 
