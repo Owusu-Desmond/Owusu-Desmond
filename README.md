@@ -4,17 +4,17 @@
 <h1 align="center">Hi there👋
 <br>I'm Desmond Owusu Ansah 🙋🏼 Glad to see you😃 </h1>
 
-<p><i>I'm <ins><b>Full Stack Web Developer</b></ins> with 2 years of experience in front-end and back-end development using languages such as JavaScript, Ruby, HTML, and CSS and frameworks such as React, Node.js, and Rails. Strong problem-solving and attention to detail skills, resulting in the successful development and maintenance of multiple web applications. Excellent communication skills and ability to work in fast-paced environments</i></p>
+<p><i>I'm <ins><b>Full Stack Web Developer</b></ins> with 3 years of experience in front-end and back-end development using languages such as JavaScript, Ruby, HTML, and CSS and frameworks such as React, Node.js, and Rails. Strong problem-solving and attention to detail skills, resulting in the successful development and maintenance of multiple web applications. Excellent communication skills and ability to work in fast-paced environments</i></p>
 
 ## 👨🏻‍💻 &nbsp; More About Me
 
 - 🌱 I’m **[currently available for hire]()**.
 
-- 🔭 I’m currently working with, **TypeScript, React Native and Next JS**
+- 🔭 I’m currently working with **Express, TypeScript, React Native, and Next JS**
 
 - 💬 Ask me about **[JavaScript](), [React JS](), [Node JS](), [Express JS]() and [PHP]()**
 
-- 📫 You can shoot me an email at **desmond0406114009@gmail.com** I'll try to respond as soon as I can.
+- 📫 You can email me at **desmond0406114009@gmail.com** I'll try to respond as soon as possible.
 
 - 📄  Please have a look at my [Portfolio](https://destee.netlify.app/) for more details about me. I'm open to feedback and suggestions!
 
